@@ -1,0 +1,5 @@
+# Fakemail
+
+```
+./gradlew bootRun
+```
